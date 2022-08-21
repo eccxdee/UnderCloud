@@ -21,11 +21,6 @@ body{
 
 }
 
-.cabeçalho-imagem {
- height: 72px;
- margin-right: 350px;
-}
-
 .cabeçalho-menu{
     display: flex;
     gap: 32px;
